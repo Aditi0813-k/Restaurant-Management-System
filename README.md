@@ -1,5 +1,4 @@
- Restaurant-Management-System
- Project Title : Restaurant Management System
+Project Title : Restaurant Management System
 
 Technologies Used : Python
 
